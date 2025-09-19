@@ -18,15 +18,15 @@ Start the server:
 npm start
 
 
-Open the API in your browser or Postman:
+Open the API in browser or Postman:
 
 http://localhost:3000/api/tasks
 
 Deployed API
 
-Your deployed API URL:
+deployed API URL:
 
-https://task-api-[yourname].onrender.com
+https://task-api-uynh.onrender.com
 
 API Endpoints
 1. Create Task
